@@ -1,7 +1,7 @@
 const express = require("express");
 let { SmartAPI, WebSocket } = require("smartapi-javascript");
 const app = express();
-const port = 5000;
+const port = 3000;
 
 const stockDetails = [
   {
