@@ -82,7 +82,7 @@ app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 
   let smart_api = new SmartAPI({
-    api_key: "BIdh60zo",
+    api_key: "",
   });
 
   smart_api
